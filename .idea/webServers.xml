@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b27df22-16eb-4a2c-8bde-4fe7ece4d479" name="m2">
+        <fileTransfer accessType="SFTP" host="jumpserver.ai.xiaoyezi.com" port="2223" sshConfigId="d28c3c6e-d177-4d0c-b7c4-27b06b7e429d" sshConfig="zhaoliang@jumpserver.ai.xiaoyezi.com:2223 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

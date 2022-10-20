@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="m2">
+    <serverData>
+      <paths name="m2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/deepiano_data/zhaoliang/work/deepiano_dataset_zl_qingchen" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
